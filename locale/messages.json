@@ -1,0 +1,16 @@
+{
+    "description": "An utility to help you to downgrade your debian or debian-based system to packages in the active repositories",
+    "help_force": "Force requested changes, don't resolve problems",
+    "help_update": "Update the package cache first",
+    "help_yes": "Assume yes to all questions which yes is the default",
+    "help_yes_all": "Assume yes to all questions",
+    "invalid_response": "Invalid response! Valid responses are: yes, no, y, n",
+    "Qremove": "Remove %(name)s version %(pkgver)s [y]? ",
+    "Qforce": "Force '%(name)s' version\n  from %(pkgver)s\n  to   %(candver)s (%(archive)s) [y]? ",
+    "system_ok": "Congratulations! Your system is OK",
+    "Qmake_changes": "Do you wish to make the changes above [n] ? ",
+    "changes_made": "The following changes will be made...",
+    "download_size": "%(bytes).1f MB will be downloaded",
+    "Qtry_again": "An error ocurred, try again [y] ? ",
+    "operation_cancelled": ":Operation cancelled by user."
+}

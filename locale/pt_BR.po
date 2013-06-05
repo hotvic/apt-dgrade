@@ -1,0 +1,57 @@
+# apt-drage.
+# Copyright (C) 2013 Victor Aurélio
+# Victor Aurélio <victoraur.santos@gmail.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apt-dgrade 0.1\n"
+"POT-Creation-Date: 2013-06-04 22:28+BRT\n"
+"PO-Revision-Date: 2013-06-04 22:37+BRT\n"
+"Last-Translator: Victor Aurélio <victoraur.santos@gmail.com>\n"
+"Language-Team: Victor Aurélio <victoraur.santos@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+msgid "An utility to help you to downgrade your debian or debian-based system to packages in the active repositories"
+msgstr "Um utilitário para ajudá-lo a fazer o downgrade do sistema debian ou debian-based para pacotes em repositórios ativos"
+
+msgid "Force requested changes, don't resolve problems"
+msgstr "Forçar mudanças requeridas, não resolver problemas"
+
+msgid "Update the package cache first"
+msgstr "Atualizar cache de pacotes primeiro"
+
+msgid "Assume yes to all questions which yes is the default"
+msgstr "Assumir yes para todas perguntas que yes é padrão"
+
+msgid "Assume yes to all questions"
+msgstr "Assumir yes para todas as questões"
+
+msgid "Invalid response! Valid responses are: yes, no, y, n"
+msgstr "Resposta inválida! Respostas válidas são: yes, no, y, n"
+
+msgid "Remove %(name)s version %(pkgver)s [y]? "
+msgstr "Remover %(name)s versão %(pkgver)s [y] "
+
+msgid "Force '%(name)s' version\n  from %(pkgver)s\n  to   %(candver)s (%(archive)s) [y]? "
+msgstr "Forçar '%(name)s' versão\n de %(pkgver)s\n  para   %(candver)s (%(archive)s) [y]? "
+
+msgid "Congratulations! Your system is OK"
+msgstr "Parabéns! Seu sistema está bem"
+
+msgid "Do you wish to make the changes above [n] ? "
+msgstr "Você deseja aplicar as alterações acima [n] ?"
+
+msgid "The following changes will be made..."
+msgstr "As seguintes alterações serão feitas..."
+
+msgid "%(bytes).1f MB will be downloaded"
+msgstr "%(byte).1f MB vai ser baixado"
+
+msgid "An error ocurred, try again [y] ? "
+msgstr "Ocorreu um error, tentar novamente [y] ? "
+
+msgid "Operation cancelled by user."
+msgstr "Operação cancelada pelo usuário."
