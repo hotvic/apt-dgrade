@@ -28,7 +28,7 @@ apt-get install python python-apt
 # run as root also
 aptitude install python python-apt
 ```
-For other distributions please refer to distribution's documentation.
+For other distributions please refer to distribution documentation.
 
 Legal Information
 -----------------
